@@ -1,0 +1,6 @@
+
+*.tar.gz
+*.Rhistory
+man/*
+**/*.o
+**/*.so

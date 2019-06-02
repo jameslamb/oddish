@@ -1,0 +1,13 @@
+Package: oddish
+Type: Package
+Title: oddish
+Version: 0.0.1
+Date: 2019-05-24
+Authors@R: c(
+	person("James", "Lamb", email="jaylamb20@gmail.com", role = c("aut", "cre"))
+	)
+Description: I want to know how C++ works.
+License: BSD 3-clause
+Depends:
+    R (>= 3.4)
+RoxygenNote: 6.1.1
