@@ -1,6 +1,9 @@
 
 // Register Dynamic Symbols
 
+// based on
+// https://github.com/dmlc/xgboost/blob/master/R-package/src/init.c
+
 #include <R.h>
 #include <Rinternals.h>
 #include <stdlib.h>

@@ -20,4 +20,6 @@
       #define ODDISH_DLL ODDISH_EXTERN_C
     #endif  // defined(_MSC_VER) || defined(_WIN32)
 
+    ODDISH_DLL SEXP attack_R(SEXP);
+
 #endif // ODDISH_R_H_

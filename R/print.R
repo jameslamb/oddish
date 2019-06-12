@@ -5,7 +5,7 @@
 #' @export
 absorb <- function(msg){
     out <- .Call(
-        "_attack_R"
+        "attack_R"
         , msg = msg
         , PACKAGE = "oddish"
     )
