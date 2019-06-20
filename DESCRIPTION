@@ -7,7 +7,9 @@ Authors@R: c(
 	person("James", "Lamb", email="jaylamb20@gmail.com", role = c("aut", "cre"))
 	)
 Description: I want to know how C++ works.
-License: BSD 3-clause
+License: file LICENSE
 Depends:
     R (>= 3.4)
+Suggests:
+    testthat
 RoxygenNote: 6.1.1

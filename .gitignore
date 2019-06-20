@@ -1,6 +1,8 @@
 
+# build artifacts
 *.tar.gz
 *.Rhistory
 man/*
 **/*.o
 **/*.so
+**/*.Rcheck
