@@ -6,3 +6,4 @@ man/*
 **/*.o
 **/*.so
 **/*.Rcheck
+**/*.DS_Store

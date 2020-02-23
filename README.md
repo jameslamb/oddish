@@ -30,7 +30,6 @@ open /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10
 
 That re-installs the main C/C++ headers so `clang++` can find them.
 
-
 ## References
 
 * [using C code in R](http://adv-r.had.co.nz/C-interface.html)
